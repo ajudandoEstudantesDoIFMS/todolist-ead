@@ -1,4 +1,4 @@
-funtion Home () {
+function Home () {
 	return (
 		<p>Primeiro Commit </p>
 	)
