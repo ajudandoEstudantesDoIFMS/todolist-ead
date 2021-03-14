@@ -1,0 +1,35 @@
+{
+  "name": "todolist-ead",
+  "version": "1.0.0",
+  "description": "Front-end of todo list for ead ifms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajudandoEstudantesDoIFMS/todolist-ead.git"
+  },
+  "keywords": [
+    "ead",
+    "ifms",
+    "todo",
+    "list",
+    "tasks",
+    "studant"
+  ],
+  "author": "ajudandoEstudantesDoIFMS",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ajudandoEstudantesDoIFMS/todolist-ead/issues"
+  },
+  "homepage": "https://github.com/ajudandoEstudantesDoIFMS/todolist-ead#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "next": "^10.0.8",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.5.2",
+    "react-dom": "^17.0.1",
+    "swr": "^0.5.3"
+  }
+}
